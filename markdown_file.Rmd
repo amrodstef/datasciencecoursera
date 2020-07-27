@@ -1,0 +1,7 @@
+---
+title: "markdown_file"
+author: "amrodstef"
+date: "27/07/2020"
+output: pdf_document
+---
+## This is a markdown file
